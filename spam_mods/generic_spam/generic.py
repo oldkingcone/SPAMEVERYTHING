@@ -17,7 +17,7 @@ class GenericSpam:
             x = get(
                 target,
                     headers={
-                "User-Agent": self.random_agent() + " you didnt say the magic word."
+                "User-Agent": self.random_agent() + "(you didnt say the magic word.)"
                 },
                     proxies={
                     "http": self.proxy(), "https": self.proxy()
