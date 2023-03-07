@@ -2,9 +2,12 @@
 found a webhook in some malware somewhere? lets go ahead and spam it.
 
 # SPAMALLTHETHINGS.
+
 So, ive noticed several pieces of malware utilizing webhooks as their C2/infrastructure, and thats a problem. This tool allows you to teach those skids a lesson, 500 threads at a time.
 
-#Disclaimer.....
+
+# Disclaimer.....
+
 I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS PRODUCT, THIS IS BUILT FOR EDUCATIONAL PURPOSES ONLY. KNOW THE LAWS IN YOUR COUNTRY OF RESIDENCE BEFORE YOU UTILIZE THIS TOOL.
 
 # Options........
