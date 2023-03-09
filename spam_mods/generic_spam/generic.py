@@ -25,7 +25,7 @@ class GenericSpam:
                 )
             return "\033[0;32mYay!\033[0m"
         except TypeError as e:
-            print(f"Python is being fucking retarded: {e}")
+            print(f"{e}")
 
     def buildThreads(self, generic_link):
         if not str(generic_link).startswith("http://"):
